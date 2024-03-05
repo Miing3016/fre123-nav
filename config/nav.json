@@ -859,5 +859,113 @@
 				]
 			}
 		]
+	},
+	{
+		"group_name": "AI应用",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "人工智能GPT",
+				"upper_right_corner": {},
+				"details": [
+					
+                                        {
+						"title": "密塔AI搜索",
+						"url": "https://metaso.cn/",
+						"icon": "https://img.xsojson.com/file/71b8893b271a66b38d3b2.jpg",
+						"description": "AI搜索问答-直连",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "KimiCHat",
+						"url": "https://kimi.moonshot.cn/",
+						"icon": "https://kimi.moonshot.cn/assets/home/top_dark.png",
+						"description": "无限Pdf翻译问答-直连",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LobeChat",
+						"url": "https://lobe.icily.fun/",
+						"icon": "https://lobe.icily.fun/_next/image?url=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Fassets-logo%2F1.1.0%2Ffiles%2Fassets%2Flogo-3d.webp&w=48&q=75",
+						"description": "LobeChat-直连",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Gemini",
+						"url": "https://chatgemini.wjhtkjwz.eu.org/",
+						"icon": "https://th.bing.com/th/id/OIP.4q5nGtx8Nakq21G0mtcepgHaEo?rs=1&pid=ImgDetMain",
+						"description": "Gemini Pro 免账号",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "扣子",
+						"url": "https://www.coze.cn/",
+						"icon": "https://th.bing.com/th/id/OIP.hKcddFuG8oOtd1Rb-vkkhAAAAA?rs=1&pid=ImgDetMain",
+						"description": "免费GPT4",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "免费GPT收集",
+						"url": "https://cc.ai55.cc/",
+						"icon": "https://th.bing.com/th/id/OIP.hKcddFuG8oOtd1Rb-vkkhAAAAA?rs=1&pid=ImgDetMain",
+						"description": "准备了众多免费好用的ChatGPT镜像站点",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AI画图",
+						"url": "https://www.capcut.cn/ai-tool/platform",
+						"icon": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/ies/lvweb/mweb_cn/static/image/mweb-logo.adddd26e.png",
+						"description": "人工智能生成图片",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "Backup",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Gpt官网",
+						"url": "https://chat.openai.com/",
+						"icon": "https://th.bing.com/th/id/OIP.bScrk0MBC5ApB9SrTMUkugHaHa?rs=1&pid=ImgDetMain",
+						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Claude",
+						"url": "https://claude.ai/chats",
+						"icon": "https://th.bing.com/th/id/OIP.bKCfKgL85mGzetUb_rPpmAAAAA?rs=1&pid=ImgDetMain",
+						"description": "哔咪哔咪为您将动漫番剧一网打尽",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "蜜柑计划",
+						"url": "https://mikanime.tv/",
+						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
+						"description": "新一代的动漫下载站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Browse :: Nyaa",
+						"url": "https://nyaa.si/",
+						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
+						"description": "一个番剧下载资源网站",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+		]
 	}
 ]
