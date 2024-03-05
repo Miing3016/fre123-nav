@@ -758,7 +758,7 @@
 					{
 						"title": "KimiCHat",
 						"url": "https://kimi.moonshot.cn/",
-						"icon": "https://kimi.moonshot.cn/assets/home/top_dark.png",
+						"icon": "https://statics.moonshot.cn/kimi-chat/static/top_dark.df9c2f98.png",
 						"description": "无限Pdf翻译问答-直连",
 						"suffix": true,
 						"is_show": true
