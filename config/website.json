@@ -1,12 +1,12 @@
 {
 	"base": {
-		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
+		"app_name": "Mingle",
+		"web_host": "https://nav.icily.fun",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
+		"title": "Mingle’s 资源导航",
+		"description": "专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
 		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
 		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
 	},
@@ -15,10 +15,10 @@
 			"is_show": true,
 			"list": [
 				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
+					"name": "AI搜索",
+					"url": "https://metaso.cn/?s=itab1&q=",
+					"icon": "https://img0.baidu.com/it/u=1005696632,527580017&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+					"placeholder": "人工智能搜索"
 				},
 				{
 					"name": "谷歌",
