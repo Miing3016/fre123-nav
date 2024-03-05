@@ -21,12 +21,6 @@
 					"placeholder": "人工智能搜索"
 				},
 				{
-					"name": "谷歌",
-					"url": "https://www.google.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
-					"placeholder": "请输入您要搜索的内容..."
-				},
-				{
 					"name": "必应",
 					"url": "https://cn.bing.com/search?q=",
 					"icon": "https://img.fre123.com/i/2023/11/26/65630386088eb.png",
