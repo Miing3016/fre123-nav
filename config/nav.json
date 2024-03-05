@@ -683,40 +683,40 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "铜钟",
-						"url": "https://tonzhon.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ed2a626a.png",
-						"description": "PC端免费音乐平台",
+						"title": "MusicFree",
+						"url": "https://musicfree.upup.fun/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f063b29f.jpeg",
+						"description": "一个插件化的音乐播放器",
 						"is_show": true
 					},
 					{
-						"title": "简繁音乐",
-						"url": "https://pt.sayqz.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985eeb98d91.png",
-						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
+						"title": "歌曲宝",
+						"url": "https://www.gequbao.com/",
+						"icon": "https://www.gequbao.com/static/img/logo.png",
+						"description": "音乐免费下载",
 						"is_show": true
 					},
 
 					{
-						"title": "魅力音乐",
-						"url": "https://www.meiliyizu.com/",
+						"title": "Free MP3 Download",
+						"url": "https://free-mp3-download.net/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65985ec12f5b5.png",
 						"description": "无损音乐免费下载",
 						"is_show": true
 					},
 
 					{
-						"title": "在线音乐播放器",
-						"url": "https://mp3.xsle.cn/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f1618ea1.png",
-						"description": "一款开源的基于网易云音乐api的在线音乐播放器",
+						"title": "下歌吧",
+						"url": "https://xiageba.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
+						"description": "高品质无损音乐网盘下载",
 						"is_show": true
 					},
 					{
-						"title": "MyFreeMP3",
-						"url": "https://music.liumingye.cn",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985eb383091.png",
-						"description": "免费的全网无损音乐下载站",
+						"title": "MusicEnc",
+						"url": "https://www.musicenc.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f26eb75f.png",
+						"description": "可以搜索试听歌曲，可保存音乐",
 						"is_show": true
 					},
 					{
@@ -731,84 +731,6 @@
 						"url": "https://musicfree.upup.fun/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65985f063b29f.jpeg",
 						"description": "一个插件化的音乐播放器",
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "音乐下载",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "下歌吧",
-						"url": "https://xiageba.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
-						"description": "高品质无损音乐网盘下载",
-						"is_show": true
-					},
-					{
-						"title": "Free MP3 Download",
-						"url": "https://free-mp3-download.net/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e8fcc35f.png",
-						"description": "免费全网无损音乐下载工具",
-						"is_show": true
-					},
-					{
-						"title": "音乐仓库",
-						"url": "https://www.cangkus.com/music",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985ea83e830.png",
-						"description": "一个无损音乐资源分享网站",
-						"is_show": true
-					},
-
-					{
-						"title": "HiFiNi音乐磁场",
-						"url": "https://hifini.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
-						"description": "音乐爱好者维护的无损音乐免费下载平台",
-						"is_show": true
-					},
-
-					{
-						"title": "MusicEnc",
-						"url": "https://www.musicenc.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f26eb75f.png",
-						"description": "可以搜索试听歌曲，可保存音乐",
-						"is_show": true
-					},
-					{
-						"title": "猫耳FM",
-						"url": "https://www.missevan.com/sound/m/8",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f5f48f53.jpg",
-						"description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
-						"is_show": true
-					},
-					{
-						"title": "YesPlayMusic",
-						"url": "https://music.qier222.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f3e10a54.png",
-						"description": "最好用的第三方网易云客户端，自动解锁变灰歌曲",
-						"is_show": true
-					},
-					{
-						"title": "Lofi ICU音乐",
-						"url": "https://lofi.icu/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985f702d0bc.jpg",
-						"description": "一个提供高保真音乐和现场广播流精选的网站",
-						"is_show": true
-					},
-					{
-						"title": "slider.kz",
-						"url": "https://slider.kz/",
-						"icon": "https://slider.kz/favicon.ico",
-						"description": "页面简洁，乐库资源丰富，支持搜索和下载全球音乐",
-						"is_show": false
-					},
-					{
-						"title": "dtshot",
-						"url": "https://www.dtshot.com/songs",
-						"icon": "https://img.fre123.com/i/2024/01/09/659c3f53de424.ico",
-						"description": "DTSHOT为您收集最新最全的免费无损音乐下载。flac、ape、wav、dsd、dts等格式的无损音乐，每日为您提供最新最全的无损音乐！",
 						"is_show": true
 					}
 				]
