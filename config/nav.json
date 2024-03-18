@@ -119,6 +119,14 @@
 				"upper_right_corner": {},
 				"details": [				
 					{
+						"title": "爱乐影院",
+						"url": "https://66686.xyz/",
+						"icon": "http://7niu.icily.fun/img/202403182056220.png",
+						"description": "可在线观看，可本地下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "好看123",
 						"url": "https://haokan123.icu/",
 						"icon": "https://img.fre123.com/i/2023/12/13/6579cc2dab874.png",
@@ -208,7 +216,7 @@
 					},
 					{
 						"title": "可可影视",
-						"url": "https://www.kekys.com/",
+						"url": "https://www.keke11.com:51111/",
 						"icon": "https://img.fre123.com/i/2023/12/14/657b21e08c6f0.png",
 						"description": "每天更新热火欧美日韩剧",
 						"suffix": true,
