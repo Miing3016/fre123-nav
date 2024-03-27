@@ -14,7 +14,7 @@
 						"icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.vKEp54GyhspryKoEdo0KGQHaHa?dpr=3&pid=ImgDetMain",
 						"description": " ",
 						"suffix": false,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "钢的琴",
@@ -22,7 +22,7 @@
 						"icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.vKEp54GyhspryKoEdo0KGQHaHa?dpr=3&pid=ImgDetMain",
 						"description": " ",
 						"suffix": false,
-						"is_show": true
+						"is_show": false
 					}
 				]
 			},
