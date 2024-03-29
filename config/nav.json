@@ -27,22 +27,22 @@
 				]
 			},
 			{
-				"tab_name": "待定",
+				"tab_name": "工具",
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "下歌吧",
-						"url": "https://xiageba.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
-						"description": "高品质无损音乐网盘下载",
+						"title": "文本转语音",
+						"url": "https://www.text-to-speech.online/",
+						"icon": "https://www.text-to-speech.online/static/picture/logo.svg",
+						"description": "免费的将文本转换为语音的服务功能",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "dtshot",
-						"url": "https://www.dtshot.com/songs",
+						"title": "TTS - 文本转语音",
+						"url": "http://www.ttsonline.cn/",
 						"icon": "https://img.fre123.com/i/2024/01/09/659c3f53de424.ico",
-						"description": "DTSHOT为您收集最新最全的免费无损音乐下载。flac、ape、wav、dsd、dts等格式的无损音乐，每日为您提供最新最全的无损音乐！",
+						"description": "免费的将文本转换为语音的服务功能，多种声音可选",
 						"suffix": false,
 						"is_show": true
 					}
