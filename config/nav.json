@@ -644,7 +644,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
 						"description": "新一代的动漫下载站",
 						"suffix": true,
-						"is_show": true
+						"is_show": false
 					},
 					{
 						"title": "Browse :: Nyaa",
@@ -652,7 +652,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
 						"description": "一个番剧下载资源网站",
 						"suffix": true,
-						"is_show": true
+						"is_show": false
 					}
 				]
 			}
