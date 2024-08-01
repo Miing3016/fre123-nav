@@ -68,6 +68,14 @@
 						"is_show": true
 					},
      	{
+						"title": "咪咕体育（奥运会）",
+						"url": "https://www.miguvideo.com/",
+						"icon": "https://www.bing.com/images/search?view=detailV2&ccid=LVVB41KY&id=506042D6A7C25FEFE970DE192652986661639BE3&thid=OIP.LVVB41KYiRuQvQRb9EmlugHaHa&mediaurl=https%3a%2f%2fpicx.zhimg.com%2fv2-a4100c37191dd8d0f890a45f46ddfd9d_xl.jpg%3fsource%3d32738c0c&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d5541e35298891b90bd045bf449a5ba%3frik%3d45tjYWaYUiYZ3g%26pid%3dImgRaw%26r%3d0&exph=640&expw=640&q=%e5%92%aa%e5%92%95%e4%bd%93%e8%82%b2&simid=607998826805425590&FORM=IRPRST&ck=64BB48F858B6A228943AB3F75F3D808C&selectedIndex=23&itb=0&ajaxhist=0&ajaxserp=0",
+						"description": "免费体育直播",
+						"suffix": false,
+						"is_show": true
+					},
+     	{
 						"title": "30直播",
 						"url": "http://www.30.tv/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65985eeb98d91.png",
@@ -76,7 +84,7 @@
 						"is_show": true
 					},
 					{
-						"title": "海星体育",
+						"title": "海星体育（奥运会）",
 						"url": "https://haixing.tv/anchor?type=1",
 						"icon": "https://pic.quanjing.com/m7/ru/QJ8629966219.jpg?x-oss-process=style/show_794s",
 						"description": "免费体育直播",
